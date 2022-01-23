@@ -1,0 +1,3 @@
+Export all fonts to ttf, otf, woff, woff2
+
+FOR %f IN (sources/*.sfd) DO fontforge -lang=ff -c "Open('sources/%~nf.sfd'); Generate('fonts/ttf/%~nf.ttf'); Generate('fonts/otf/%~nf.otf'); Generate('fonts/woff/%~nf.woff'); Generate('fonts/woff2/%~nf.woff2')"
