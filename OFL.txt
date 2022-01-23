@@ -1,4 +1,4 @@
-Gontserrat (reserved font name) is a derivative work of Montserrat under the Open Font License. Copyright 2020 Gabriel Classon (gabeclasson.com)
+Gontserrat is a derivative work of Montserrat under the Open Font License. Copyright 2020 Gabriel Classon (gabeclasson.com)
 
 Copyright notice for Montserrat: Copyright 2011 The Montserrat Project Authors (https://github.com/JulietaUla/Montserrat)
 
