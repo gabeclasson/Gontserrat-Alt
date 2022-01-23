@@ -1,7 +1,7 @@
 SplineFontDB: 3.2
 FontName: Gontserrat-LightItalic
 FullName: Gontserrat Light Italic
-FamilyName: Gontserrat
+FamilyName: Gontserrat Light
 Weight: Light
 Copyright: Gontserrat is a derivative work of Montserrat under the Open Font License, version 1.1. Copyright 2020 Gabriel Classon (gabeclasson.com). Montserrat copyright 2011 The Montserrat Project Authors (https://github.com/JulietaUla/Montserrat). 
 Version: 7.222
@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1485852814
-ModificationTime: 1642923077
+ModificationTime: 1642927618
 PfmFamily: 81
 TTFWeight: 300
 TTFWidth: 5
@@ -5009,7 +5009,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 38 14
+WinInfo: 38 38 14
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "Anchor-0" "Montserrat-LightItalic-'mark' Mark Positioning lookup 2 subtable" "Anchor-1" "Montserrat-LightItalic-'mark' Mark Positioning lookup 2 subtable" "Anchor-2" "Montserrat-LightItalic-'mark' Mark Positioning lookup 2 subtable" "Anchor-3" "Montserrat-LightItalic-'mark' Mark Positioning lookup 2 subtable" "Anchor-4" "Montserrat-LightItalic-'mark' Mark Positioning lookup 2 subtable" "Anchor-5" "Montserrat-LightItalic-'mark' Mark Positioning lookup 2 subtable" "Anchor-6" "Montserrat-LightItalic-'mark' Mark Positioning lookup 3 subtable" "Anchor-7" "Montserrat-LightItalic-'mark' Mark Positioning lookup 3 subtable" "Anchor-8" "Montserrat-LightItalic-'mark' Mark Positioning lookup 3 subtable" "Anchor-9" "Montserrat-LightItalic-'mark' Mark Positioning lookup 3 subtable" "Anchor-10" "Montserrat-LightItalic-'mark' Mark Positioning lookup 3 subtable" "Anchor-11" "Montserrat-LightItalic-'mark' Mark Positioning lookup 3 subtable" "Anchor-12" "Montserrat-LightItalic-'mark' Mark Positioning lookup 4 subtable" "Anchor-13" "Montserrat-LightItalic-'mark' Mark Positioning lookup 4 subtable" "Anchor-14" "Montserrat-LightItalic-'mark' Mark Positioning lookup 4 subtable" "Anchor-15" "Montserrat-LightItalic-'mark' Mark Positioning lookup 4 subtable" "Anchor-16" "Montserrat-LightItalic-'mark' Mark Positioning lookup 4 subtable" "Anchor-17" "Montserrat-LightItalic-'mark' Mark Positioning lookup 4 subtable" "Anchor-18" "Montserrat-LightItalic-'mkmk' Mark to Mark lookup 5 subtable" "Anchor-19" "Montserrat-LightItalic-'mkmk' Mark to Mark lookup 6 subtable"

@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1485852814
-ModificationTime: 1642922567
+ModificationTime: 1642928011
 PfmFamily: 81
 TTFWeight: 700
 TTFWidth: 5
@@ -5020,7 +5020,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 38 14
+WinInfo: 38 38 14
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "Anchor-0" "Montserrat-BoldItalic-'mark' Mark Positioning lookup 2 subtable" "Anchor-1" "Montserrat-BoldItalic-'mark' Mark Positioning lookup 2 subtable" "Anchor-2" "Montserrat-BoldItalic-'mark' Mark Positioning lookup 2 subtable" "Anchor-3" "Montserrat-BoldItalic-'mark' Mark Positioning lookup 2 subtable" "Anchor-4" "Montserrat-BoldItalic-'mark' Mark Positioning lookup 2 subtable" "Anchor-5" "Montserrat-BoldItalic-'mark' Mark Positioning lookup 2 subtable" "Anchor-6" "Montserrat-BoldItalic-'mark' Mark Positioning lookup 3 subtable" "Anchor-7" "Montserrat-BoldItalic-'mark' Mark Positioning lookup 3 subtable" "Anchor-8" "Montserrat-BoldItalic-'mark' Mark Positioning lookup 3 subtable" "Anchor-9" "Montserrat-BoldItalic-'mark' Mark Positioning lookup 3 subtable" "Anchor-10" "Montserrat-BoldItalic-'mark' Mark Positioning lookup 3 subtable" "Anchor-11" "Montserrat-BoldItalic-'mark' Mark Positioning lookup 3 subtable" "Anchor-12" "Montserrat-BoldItalic-'mark' Mark Positioning lookup 4 subtable" "Anchor-13" "Montserrat-BoldItalic-'mark' Mark Positioning lookup 4 subtable" "Anchor-14" "Montserrat-BoldItalic-'mark' Mark Positioning lookup 4 subtable" "Anchor-15" "Montserrat-BoldItalic-'mark' Mark Positioning lookup 4 subtable" "Anchor-16" "Montserrat-BoldItalic-'mark' Mark Positioning lookup 4 subtable" "Anchor-17" "Montserrat-BoldItalic-'mark' Mark Positioning lookup 4 subtable" "Anchor-18" "Montserrat-BoldItalic-'mkmk' Mark to Mark lookup 5 subtable" "Anchor-19" "Montserrat-BoldItalic-'mkmk' Mark to Mark lookup 6 subtable"
